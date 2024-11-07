@@ -45,7 +45,7 @@ The smart contract is deployed at the following address:
 
 To deploy and interact with this smart contract, you will need:
 
-1. An Aptos wallet to manage your account.
+1. An Aptos wallet to manage your account.(Petra wallet Must)
 2. Access to the Aptos blockchain.
 3. The Aptos CLI for deploying and testing the smart contract.
 
