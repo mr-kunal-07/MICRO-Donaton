@@ -40,6 +40,9 @@ The smart contract is deployed at the following address:
    - **Description**: Retrieves the donation history for a specific educational cause.
    - **Parameters**:
      - `cause_owner`: The address of the cause's creator.
+       
+    
+4. - **Contract Address**: `0x38be01ad87fabb152142f806b5b6ff7f5ec235345bf1e59d954e84f65ccdd861`
 
 ## Getting Started
 
